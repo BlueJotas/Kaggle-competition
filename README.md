@@ -20,9 +20,9 @@ You can find the link to the dataset and competition here: [link](https://www.ka
 
 :hatching_chick:  Binary tree Algorithm
 
-:bird:  Random Forest regression Algorithm
+:hatched_chick:  Random Forest regression Algorithm
 
-And our shinning star!
+- And our shinning star!
 
 :rocket:  The Gradient Boosting Algorithm!
 
