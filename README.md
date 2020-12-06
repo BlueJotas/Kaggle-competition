@@ -6,6 +6,8 @@ Welcome to this awesome project!
 
 - We dowloaded a dataset from Kaggle. This dataset is about the price of diamonds given some measurements and characteristics.
 
+You can find the link to the dataset and competition here: [link](https://www.kaggle.com/c/diamonds-datamad1020-rev)
+
 - The dataset is divided in two subsets. The first one is the train.csv, that we used to train our models and predict the first prices. Then, we loaded the test.csv that has all the colums but the "price" one, so we predicted the prices also and appended the predicted price to the dataset.
 
 - We made some adjustments to the dataset in order to allow our regression models to analyze it and train itselves (encoded our string columns and converted the to integers). With all this data and some time spent training the model, we were able to predict the prices of the diamonds and score a top 3 in the Kaggle competition where we got this dataset from!
