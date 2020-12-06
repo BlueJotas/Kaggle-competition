@@ -1,8 +1,8 @@
-#Diamond Price Prediction!
+# Diamond Price Prediction!
 
 Welcome to this awesome project!
 
-##This project is focused in the next steps:
+## This project is focused in the next steps:
 
 - We dowloaded a dataset from Kaggle. This dataset is about the price of diamonds given some measurements and characteristics.
 
@@ -12,7 +12,7 @@ Welcome to this awesome project!
 
 - Finally, we only took the "id" column and the "price" one, and created some output dataframes to submit in the Kaggle competition.
 
-###The Algorithms used for this project are the following ones:
+### The Algorithms used for this project are the following ones:
 
 - Simple Linear regression
 
