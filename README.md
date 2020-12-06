@@ -27,3 +27,5 @@ And our shinning star!
 - The Gradient Boosting Algorithm!
 
 The last one is the one which we improved with some tweakings and the one that got us to the top 3 of this competition!
+
+https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F37166%2Fbc84b551de41c7437b3f523060bcf89a%2F3mhn2w.jpg?generation=1579340935253571&alt=media
