@@ -1,6 +1,6 @@
 # Diamond Price Prediction!
 
-Welcome to this awesome project :exclamation:
+WELCOME TO THIS AWESOME PROJECT :exclamation:
 
 ### This project is focused in the next steps:
 
