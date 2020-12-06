@@ -28,3 +28,4 @@ And our shinning star!
 
 The last one is the one which we improved with some tweakings and the one that got us to the top 3 of this competition!
 
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fc%2Fdata-science-bowl-2019%2Fdiscussion%2F126471&psig=AOvVaw3nvP7nR4PgcVtZoE_DjfVn&ust=1607384385964000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCxos3Duu0CFQAAAAAdAAAAABAU)
