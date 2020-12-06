@@ -22,7 +22,7 @@ You can find the link to the dataset and competition here: [link](https://www.ka
 
 :hatched_chick:  Random Forest regression Algorithm
 
-- And our shinning star!
+- And our shinning star and last algorithm:
 
 :rocket:  The Gradient Boosting Algorithm!
 
