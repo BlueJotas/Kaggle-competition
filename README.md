@@ -2,7 +2,7 @@
 
 Welcome to this awesome project :exclamation:
 
-## This project is focused in the next steps:
+### This project is focused in the next steps:
 
 :pushpin:  We dowloaded a dataset from Kaggle. This dataset is about the price of diamonds given some measurements and characteristics.
 
