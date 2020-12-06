@@ -16,7 +16,7 @@ You can find the link to the dataset and competition here: [link](https://www.ka
 
 ### The Algorithms used for this project are the following ones:
 
-- Simple Linear regression
+:turtle: Simple Linear regression
 
 - Binary tree Algorithm
 
